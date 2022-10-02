@@ -17,3 +17,5 @@ In the project, 3 different table are created with stores the details of job and
 After creation of this excel sheet. I used SQL for finding some insights from the data like highest job ooenings, maximum followers of company and which job type is more posted on the linkedin portal.
 
 All these insights are visualized by using Tableau for better imagination.
+
+![image](https://user-images.githubusercontent.com/108942100/193443679-0c946704-90ae-4a98-8d44-2763aa922550.png)
